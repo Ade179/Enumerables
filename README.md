@@ -73,9 +73,9 @@ REQUIRED SECTIONS:
 
 ### Key Features <a name="key-features"></a>
 
-- [N/A] **[key_feature_1]**
-- [N/A] **[key_feature_2]**
-- [N/A] **[key_feature_3]**
+- [N/A] **[Coming soon]**
+- [N/A] **[coming soon]**
+- [N/A] **[coming soon]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,6 +90,7 @@ To get a local copy up and running, follow these steps.
 ### Prerequisites
 
 In order to run this project you need:
+Ruby and linters like rubocop
 
 <!--
 Example command:
@@ -101,20 +102,21 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder
 
 <!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone https://github.com/Ade179/Enumerables.git
 ```
 --->
 
 ### Install
 
 Install this project with:
+Ruby
 
 <!--
 Example command:
@@ -140,6 +142,7 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+set up rubocop linters to help run tests
 
 <!--
 Example command:
@@ -151,7 +154,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+You can deploy this project using: N/A
 
 <!--
 Example:
