@@ -10,4 +10,3 @@ class Mylist
   end
 end
 
-puts list
