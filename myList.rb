@@ -9,3 +9,5 @@ class Mylist
     @list.each(&block)
   end
 end
+
+puts list
