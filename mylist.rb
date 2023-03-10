@@ -1,4 +1,5 @@
 require_relative './enumerables'
+
 class Mylist
   include MyEnumerables
   def initialize(*list)
@@ -9,4 +10,3 @@ class Mylist
     @list.each(&block)
   end
 end
-
