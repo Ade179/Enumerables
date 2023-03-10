@@ -102,7 +102,7 @@ Clone this repository to your desired folder
 Example commands:
 
 ```sh
-  cd Enumerables
+cd Enumerables
 ```
 --->
 
