@@ -78,8 +78,6 @@ REQUIRED SECTIONS:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -98,13 +96,13 @@ Example command:
 ### Setup
 
 Clone this repository to your desired folder
+[git clone] (https://github.com/Ade179/Enumerables.git)
 
 <!--
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone https://github.com/Ade179/Enumerables.git
+  cd Enumerables
 ```
 --->
 
